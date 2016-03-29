@@ -1,3 +1,5 @@
 java code - first modify
 
 2 modify
+
+code fixed 
