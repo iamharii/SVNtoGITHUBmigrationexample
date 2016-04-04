@@ -10,6 +10,9 @@ change 1
 
 change 2
 
+<<<<<<< HEAD
 code fixed
 
 New bug issue ####
+=======
+code fixed
