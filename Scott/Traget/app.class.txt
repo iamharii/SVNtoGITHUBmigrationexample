@@ -1,0 +1,14 @@
+executables ....package
+
+code broke......
+
+successful build
+
+code build 
+
+<<<<<<< HEAD
+code broken issue 
+
+Today I am changing
+=======
+code broken issue 

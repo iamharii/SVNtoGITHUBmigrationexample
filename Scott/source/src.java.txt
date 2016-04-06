@@ -1,0 +1,18 @@
+java code - first modify
+
+2 modify
+
+code fixed 
+
+New modification after migration
+
+change 1 
+
+change 2
+
+<<<<<<< HEAD
+code fixed
+
+New bug issue ####
+=======
+code fixed
